@@ -1,0 +1,15 @@
+C:\GeakBrains\DZ-5\Z-38\bin\Debug\net6.0\Z-38.exe
+C:\GeakBrains\DZ-5\Z-38\bin\Debug\net6.0\Z-38.deps.json
+C:\GeakBrains\DZ-5\Z-38\bin\Debug\net6.0\Z-38.runtimeconfig.json
+C:\GeakBrains\DZ-5\Z-38\bin\Debug\net6.0\Z-38.dll
+C:\GeakBrains\DZ-5\Z-38\bin\Debug\net6.0\Z-38.pdb
+C:\GeakBrains\DZ-5\Z-38\obj\Debug\net6.0\Z-38.csproj.AssemblyReference.cache
+C:\GeakBrains\DZ-5\Z-38\obj\Debug\net6.0\Z-38.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeakBrains\DZ-5\Z-38\obj\Debug\net6.0\Z-38.AssemblyInfoInputs.cache
+C:\GeakBrains\DZ-5\Z-38\obj\Debug\net6.0\Z-38.AssemblyInfo.cs
+C:\GeakBrains\DZ-5\Z-38\obj\Debug\net6.0\Z-38.csproj.CoreCompileInputs.cache
+C:\GeakBrains\DZ-5\Z-38\obj\Debug\net6.0\Z-38.dll
+C:\GeakBrains\DZ-5\Z-38\obj\Debug\net6.0\refint\Z-38.dll
+C:\GeakBrains\DZ-5\Z-38\obj\Debug\net6.0\Z-38.pdb
+C:\GeakBrains\DZ-5\Z-38\obj\Debug\net6.0\Z-38.genruntimeconfig.cache
+C:\GeakBrains\DZ-5\Z-38\obj\Debug\net6.0\ref\Z-38.dll
